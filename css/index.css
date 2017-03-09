@@ -1,23 +1,30 @@
 
+#dex-container{
+
+  margin:auto;
+
+}
+
+#pokedex-left{
+
+  width:22%;
+
+}
+
+#pokedex-right{
+
+  width:22%;
+
+}
+
 #dex-body{
 
-    width:50%;
-    max-width:50%;
-    min-width:50%;
-    margin:auto;
+
 
 }
 
-#pokedex-up{
+.initial-values{
 
-    width:80%;
-    margin:auto;
-
-}
-
-#pokedex-down{
-
-    width:80%;
-    margin:auto;
+  display:;
 
 }
